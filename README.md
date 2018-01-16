@@ -18,3 +18,15 @@ NodeJS Libraries List
 - [config](https://github.com/lorenwest/node-config) - a runtime configuration for Node.js. modules.
 - [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance
 - [helmet](https://github.com/helmetjs/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers
+
+
+
+Testing frameworks:
+
+- [mocha](https://github.com/visionmedia/mocha) -  a simple, flexible JavaScript test framework for Node.js and a browser. (BDD, TDD, QUnit styles via interfaces).
+- [jasmin-node](https://github.com/mhevery/jasmine-node) - integration of the Jasmine Spec framework with Node.js.
+- [sinon](https://github.com/cjohansen/Sinon.JS) - test spies, stubs, and mocks for JavaScript.
+- [chai](https://github.com/chaijs/chai) - a BDD / TDD assertion framework for Node.js and a browser. 
+- [supertest](https://github.com/visionmedia/supertest) - a super-agent driven library for testing Node.js HTTP servers using a fluent API.
+- [rewire](https://github.com/jhnns/rewire) - a dependency injection for Node.js applications.
+- [node-jscoverage](https://github.com/visionmedia/node-jscoverage) - JSCoverage for Node.js.
