@@ -17,3 +17,4 @@ NodeJS Libraries List
 - [request](https://github.com/mikeal/request) - a simplified HTTP request client.
 - [config](https://github.com/lorenwest/node-config) - a runtime configuration for Node.js. modules.
 - [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance
+- [helmet](https://github.com/helmetjs/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers
