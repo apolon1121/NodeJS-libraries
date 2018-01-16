@@ -16,4 +16,4 @@ NodeJS Libraries List
 - [lodash](https://github.com/lodash/lodash) - a utility library delivering consistency, customization, performance, and extras.
 - [request](https://github.com/mikeal/request) - a simplified HTTP request client.
 - [config](https://github.com/lorenwest/node-config) - a runtime configuration for Node.js. modules.
-- [Bluebird] (https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance
+- [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance
