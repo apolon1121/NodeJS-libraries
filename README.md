@@ -19,6 +19,7 @@ NodeJS Libraries List
 - [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance
 - [helmet](https://github.com/helmetjs/helmet) - Helmet helps you secure your Express apps by setting various HTTP headers
 - [Browserify](https://github.com/browserify/browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+- [PM2](https://github.com/Unitech/pm2) - PM2 is a production process manager for Node.js applications with a built-in load balancer.
 
 
 
