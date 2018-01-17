@@ -25,6 +25,7 @@ NodeJS Libraries List
 - [jshint](https://github.com/jshint/jshint) - JSHint is a community-driven tool that detects errors and potential problems in JavaScript code
 - [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
 - [Restify](https://github.com/restify/node-restify) - restify is a framework, utilizing connect style middleware for building REST APIs
+- [moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 
 
