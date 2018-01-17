@@ -22,6 +22,7 @@ NodeJS Libraries List
 - [PM2](https://github.com/Unitech/pm2) - PM2 is a production process manager for Node.js applications with a built-in load balancer.
 - [webpack](https://github.com/webpack/webpack) - webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
 - [Babel](https://github.com/babel/babel) - Babel is a tool that helps you write code in the latest version of JavaScript
+- [jshint](https://github.com/jshint/jshint) - JSHint is a community-driven tool that detects errors and potential problems in JavaScript code
 
 
 
