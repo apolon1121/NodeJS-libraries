@@ -27,6 +27,7 @@ NodeJS Libraries List
 - [Restify](https://github.com/restify/node-restify) - restify is a framework, utilizing connect style middleware for building REST APIs
 - [moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - This module enables e-mail sending from a Node.js applications.
+- [Validator](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 
 
 
