@@ -24,6 +24,7 @@ NodeJS Libraries List
 - [Babel](https://github.com/babel/babel) - Babel is a tool that helps you write code in the latest version of JavaScript
 - [jshint](https://github.com/jshint/jshint) - JSHint is a community-driven tool that detects errors and potential problems in JavaScript code
 - [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
+- [Restify](https://github.com/restify/node-restify) - restify is a framework, utilizing connect style middleware for building REST APIs
 
 
 
