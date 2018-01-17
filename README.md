@@ -21,7 +21,7 @@ NodeJS Libraries List
 - [Browserify](https://github.com/browserify/browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
 - [PM2](https://github.com/Unitech/pm2) - PM2 is a production process manager for Node.js applications with a built-in load balancer.
 - [webpack](https://github.com/webpack/webpack) - webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
-- [https://github.com/babel/babel](https://github.com/babel/babel) - Babel is a tool that helps you write code in the latest version of JavaScript
+- [Babel](https://github.com/babel/babel) - Babel is a tool that helps you write code in the latest version of JavaScript
 
 
 
