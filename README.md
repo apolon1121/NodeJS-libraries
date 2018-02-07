@@ -28,6 +28,7 @@ NodeJS Libraries List
 - [moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [Nodemailer](https://github.com/nodemailer/nodemailer) - This module enables e-mail sending from a Node.js applications.
 - [Validator](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 
 
 
