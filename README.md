@@ -30,6 +30,7 @@ NodeJS Libraries List
 - [Validator](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary..
+- [Joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 
 
 
